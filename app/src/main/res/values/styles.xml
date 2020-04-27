@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.App" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/reply_blue_700</item>
+        <item name="colorPrimaryDark">@color/reply_blue_800</item>
+        <item name="colorAccent">@color/reply_orange_500</item>
+    </style>
+
+</resources>
